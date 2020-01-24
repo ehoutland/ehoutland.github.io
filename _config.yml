@@ -1,1 +1,7 @@
-theme: jekyll-theme-minimal
+title:
+description: The homepage of Elliot Outland.
+
+twitter_username: ehoutland
+github_username: ehoutland
+
+theme: jekyll-minimal
